@@ -51,17 +51,5 @@ correct and incorrect guesses. This challenge taught me a lot, and I can't wait 
 put my new found skills into the real world!
 
 
-Feedback:
-
-I now understand why you encourage everyone to go to office hours ;)
-I was very busy during all of your times, so I really appreciate the 
-github repo and videos. Maybe next time virtual office hours or
-having the workshops be in person and on zoom, I feel like it
-would provide more flexibility and more people would be able to participate
-
-Bonus Question:
-
-My Guess is Berke...
-
 
 
