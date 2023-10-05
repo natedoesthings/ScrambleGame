@@ -1,7 +1,3 @@
-Name: Nathanael Tesfaye
-Email: nathanael.d.tesfaye@vanderbilt.edu
-
-
 How to Run!
 
 1. Download the latest version of node: https://nodejs.org/en/download/current
