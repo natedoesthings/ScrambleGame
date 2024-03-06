@@ -1,6 +1,6 @@
 How to Run!
 
-1. Download the latest version of node: https://nodejs.org/en/download/current
+1. Download the latest versio of node: https://nodejs.org/en/download/current
 
 2. Clone the repo
 
